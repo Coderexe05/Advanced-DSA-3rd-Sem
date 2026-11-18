@@ -1,7 +1,5 @@
 // Given a binary tree With N nodes, perform Preorder, Inorder, Postorder, and Level Order traversals, and display the traversal sequences.
-#include <iostream>
-#include <queue>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 struct Node {
